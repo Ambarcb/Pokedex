@@ -2,6 +2,8 @@
 # Current status
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0337eb1f-09fd-4891-879d-f6db3cdfd8cf/deploy-status)](https://app.netlify.com/sites/krebs-pd/deploys)
 
+You can check the deployed project [here]([https://notipet.netlify.app/](https://krebs-pd.netlify.app)).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
