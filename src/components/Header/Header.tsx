@@ -8,7 +8,7 @@ type HeaderProps = {
 const Header = ({query, setQuery}: HeaderProps) => {
     return (
         <header className={styles.header}>
-            <img src='https://upload.wikimedia.org/wikipedia/commons/9/98/International_Pokémon_logo.svg'/>
+            <img src='https://upload.wikimedia.org/wikipedia/commons/9/98/International_Pokémon_logo.svg' alt="pokemonLogo"/>
             <input 
                 className={styles.input} 
                 placeholder='Look for a Pokemon' 
