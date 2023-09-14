@@ -1,0 +1,25 @@
+.footer {
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    position: fixed;
+    background: var(--bg-gradient);
+    justify-content: space-around;
+}
+
+.footerLink {
+    display: flex;
+    color: #292929;
+    margin: 10px 0;
+    font-size: 12px;
+    text-align: center;
+    align-items: center;
+    text-decoration: none;
+    flex-direction: column;
+}
+
+.footerIcon {
+    width: 35px;
+    margin: 5px 0;
+}
