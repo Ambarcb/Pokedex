@@ -4,6 +4,14 @@
 
 You can check the deployed project [here](https://krebs-pd.netlify.app).
 
+# Images 
+
+![image](https://github.com/Ambarcb/Pokedex/assets/52165521/bfaf0e7a-79f3-4a75-a0b4-a7c1db7f2bf6)
+
+![image](https://github.com/Ambarcb/Pokedex/assets/52165521/29854da1-36c0-44e2-9096-2629a8432192)
+
+![image](https://github.com/Ambarcb/Pokedex/assets/52165521/baa21056-c265-4aa9-968f-56833149d4fe)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
